@@ -1,3 +1,3 @@
 This is sample text
 
-Text related to fetch command
+Some text related to fetch command
