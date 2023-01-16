@@ -3,3 +3,5 @@ This is sample text
 Some more text added.
 
 merge text
+
+Fetch stmnt added in test branch
